@@ -1,5 +1,6 @@
 Airline Booking Market Demand Dashboard
 This is a simple Python web app built with Streamlit to visualize airline booking trends using mock data.
+NOTE: I have used mock data for this project to simulate airline demand. and if required i can enhace this project with real-time API
 
 #### Features
 - Filter by destination
