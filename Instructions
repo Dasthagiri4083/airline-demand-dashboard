@@ -1,0 +1,28 @@
+Airline Booking Market Demand Dashboard
+This is a simple Python web app built with Streamlit to visualize airline booking trends using mock data.
+
+#### Features
+- Filter by destination
+- View demand trends using line charts
+- See top routes and peak demand dates
+
+#### Tech Stack
+- Python
+- Streamlit
+- Pandas
+- Plotly
+
+#### Folder Structure
+airline-demand-dashboard
+├── app.py
+├── requirements.txt
+├── data
+│ └── sample_data.csv
+└── utils
+└── data_processing.py
+#### How to Run
+Open the terminal and run this commands
+Step 1. Install required libraries
+Step 2. pip install -r requirements.txt
+Step 3. streamlit run app.py
+
